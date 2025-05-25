@@ -1,4 +1,4 @@
-Weather Forecasting | Python, Tkinter, OpenWeatherMap API 
+Weather Application | Python, Tkinter, OpenWeatherMap API 
 
 • Built a user-friendly GUI using Tkinter that accepts any location as input and displays real-time weather details. 
 
