@@ -19,7 +19,7 @@ def getWeather():
         city = textfield.get()
 
         # Get weather and coordinates from OpenWeatherMap
-        weather_url = f"https://api.openweathermap.org/data/2.5/weather?q={city}YOUR_OPENWEATHERMAP_API_KEY"
+        weather_url = f"https://api.openweathermap.org/data/2.5/weather?q={city}YOUR_OPEN-WEATHER-MAP_API_KEY"
         response = requests.get(weather_url)
         data = response.json()
 
